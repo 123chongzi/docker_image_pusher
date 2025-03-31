@@ -1,2 +1,2 @@
-nginx
+infiniflow/ragflow:v0.17.2
 
